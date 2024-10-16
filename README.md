@@ -1,1 +1,1 @@
-# SDR_Satellite_Imagery
+# SDR Satellite Imagery
